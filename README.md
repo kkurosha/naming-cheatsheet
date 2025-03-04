@@ -21,7 +21,7 @@
 
 ---
 
-Hello!
+Bye!
 
 Naming things is hard. This sheet attempts to make it easier.
 
